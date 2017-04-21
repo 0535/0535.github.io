@@ -13,7 +13,7 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-github: 0535
+#github: 0535 #数字账号无法使用 自动识别位8进制 因此固定在social.html中
 
 # avatar and Favicon
 avatar: http://pic.yupoo.com/bztd/Gnsw55iB/54gX1.jpg
