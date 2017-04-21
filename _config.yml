@@ -12,6 +12,9 @@ author: Admin
 filter: 'category'
 recent_num: 20
 
+# Social account
+github: 0535
+
 # avatar and Favicon
 avatar: http://pic.yupoo.com/bztd/Gnsw55iB/54gX1.jpg
 favicon: http://download.easyicon.net/ico/1200853/16/
