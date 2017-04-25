@@ -6,19 +6,19 @@ tags: Apache
 keywords: Apache 域名 端口 虚拟目录
 ---
 
-# Apache下实现本机域名访问
+## Apache下实现本机域名访问
 
-## 修改HOSTS文件
+### 修改HOSTS文件
 
 文件位置 `C:\Windows\System32\drivers\etc`
 
 ![hosts文件添加内容](http://pic.yupoo.com/bztd/GoHgckKL/tFhkP.jpg)
 
-## 修改httpd.conf开启httpd-vhosts.conf
+### 修改httpd.conf开启httpd-vhosts.conf
 
 ![开启vhosts功能](http://pic.yupoo.com/bztd/GoHgcAMl/UW0TN.jpg)
 
-## 虚拟主机配置
+### 虚拟主机配置
 
 `D:\wamp64\bin\apache\apache2.4.17\conf\extra\httpd-vhosts.conf` 下开启配置：
 
@@ -48,7 +48,7 @@ keywords: Apache 域名 端口 虚拟目录
 </Directory>
 ```
 
-# 配置实现虚拟目录
+## 配置实现虚拟目录
 
 本案例在 `D:\wamp64\alias` 下新增 `a.conf`，可实现 `http://localhost/a` 的访问，文件内容如下：
 
@@ -63,7 +63,7 @@ Alias /a "D:/site/"
 </Directory>
 ```
 
-# 开启外网访问 （Apache2.4需要开启）
+## 开启外网访问 （Apache2.4需要开启）
 
 将 `httpd.conf` 中 `Directory` 的 `Require all denied`、`Require local` 换成 `Require all granted` 即可。
 
@@ -86,7 +86,7 @@ Alias /a "D:/site/"
 
 虚拟目录 `http://localhost/phpmyadmin` 如果需要外网访问可以修改 `phpmyadmin.conf`。
 
-# 开启基于端口的访问
+## 开启基于端口的访问
 
 `http.conf` 中添加如下代码
 ```
