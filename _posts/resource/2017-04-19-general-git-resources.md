@@ -34,7 +34,8 @@ git rm --cached a.php #删除文件的暂存状态
 
 ```
 git branch develop # 只创建分支
-git checkout -b master develop #创建并切换到develop分支
+#git checkout -b master develop #创建并切换到develop分支
+git checkout -b develop #检查develop分支是否存在，不存在就创建并切换过去
 ```
 
 ## 合并分支
