@@ -53,6 +53,22 @@ git branch -r # 显示所有分支，包含远程分支
 git checkout origin/android
 ```
 
+## TAG 操作
+
+```
+git tag # 查看tag
+git tag -a v1.0-m 'first version' # 创建tag
+git tag -d v1.0 # 删除tag
+git push origin --tags #共享tag
+
+git checkout -f v1.0 #切换到TAG
+
+根据 TAG 创建分支
+git branch newbranch v1.0 # 根据 TAG 创建新分支
+git checkout newbranch # 切换到新分支
+git push origin newbranch # 把本地创建的分支提交到远程仓库
+```
+
 
 # Git 设置
 
@@ -69,3 +85,8 @@ git config user.email "xx@xx.com"
     url = git@github.com:suyan/suyan.github.io.git
     fetch = +refs/heads/*:refs/remotes/origin/*
 ```
+
+相关链接：
+
+[Git 根据tag创建分支](http://blog.csdn.net/lhcxwjh/article/details/51083249)
+[github创建tag](http://caibaojian.com/github-create-tag.html)

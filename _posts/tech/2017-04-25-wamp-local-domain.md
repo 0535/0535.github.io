@@ -3,7 +3,7 @@ layout: post
 title: Apache下配置域名 端口及虚拟目录
 category: 技术
 tags: Apache
-keywords: Apache 域名 端口 虚拟目录
+keywords: Apache,域名,端口,虚拟目录
 ---
 
 ## Apache下实现本机域名访问
