@@ -131,8 +131,6 @@ goto NSFOCUSXA
 
 ### 使用软件关闭445端口
 
-[大鱼端口查看器](http://baoku.360.cn/soft/show/appid/1900007366)
-
 [大鱼端口查看器](http://soft.360.cn/static/baoku/info_7_0/softinfo_1900007366.html)
 
 ### 软件恢复445端口

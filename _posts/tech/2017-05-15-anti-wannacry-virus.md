@@ -6,6 +6,8 @@ tags: 勒索蠕虫,病毒
 keywords: 勒索蠕虫,病毒
 ---
 
+![中毒症状](http://pic.yupoo.com/bztd/GsNEBSOK/ZyM6X.jpg)
+
 ### 我的选择
 
 [火绒安全软件](http://www.huorong.cn/)
