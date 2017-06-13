@@ -18,10 +18,6 @@ keywords: windows
 
 [图片工厂官网](www.pcfreetime.com/picosmos/)、[图片工厂1.9](http://pan.baidu.com/s/1boHV8FP)、[射手影音](https://www.splayer.org)
 
-## 代码相关
-
-[威盾PHP加密](http://pan.baidu.com/s/1dFzkNZF)
-
 ## 字体及格式
 
 [公文字体及格式](http://pan.baidu.com/s/1c23WCrI)
