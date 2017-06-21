@@ -40,11 +40,15 @@ keywords: windows
 
 ### 不常用的
 
+[闪电](http://www.sd173.com)、[PowerISO](http://www.poweriso.com)、[局域网通信](http://www.51nwt.com/)、[雨过天晴](http://www.ygtq.net)、[GTD](http://doitim.com/cn/)
+
 Beyond Compare批量修改时间戳方法：操作-接触
 
 XnView 浏览图片，特色是有扫描功能
 
-输入法：手心 或者 系统自带的
+加密软件：[diskcryptor](https://diskcryptor.net)、[FreeOTFE加密](https://sourceforge.net/projects/freeotfe.mirror/)
+
+模拟软件：[按键精灵](http://www.anjian.com/)
 
 ## Android
 

@@ -12,7 +12,7 @@ keywords: 众筹,经济,音乐
 
 ## 经济网站
 
-[老怪中国](http://blog.eastmoney.com/laoguaizhongguo)、[爱投顾](http://itougu.jrj.com.cn/live/41)、
+[老怪中国](http://blog.eastmoney.com/laoguaizhongguo)、[爱投顾](http://itougu.jrj.com.cn/live/41)、[天天看盘](http://www.ourkp.com)
 
 [天狼微博](http://weibo.com/tl50ch)、[天狼视频](http://id.tudou.com/i/UMzEwMDA4MTY2NA==/videos)
 

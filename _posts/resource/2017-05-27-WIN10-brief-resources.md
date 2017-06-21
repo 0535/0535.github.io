@@ -47,9 +47,11 @@ bcdedit /timeout 1
 
 运行`winver` 或者 `dxdiag` 
 
-## 添加用户
+## 关于用户
 
-运行`netplwiz` 或者 `compmgmt.msc` 
+运行`netplwiz` 、 `compmgmt.msc`、`lusrmgr.msc`
+
+PowerShell禁用用户`net user username /active:no`
 
 ## 神奇的服务必须开启
 

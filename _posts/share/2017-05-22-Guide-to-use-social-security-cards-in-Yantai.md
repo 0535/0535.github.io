@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 烟台社会保障卡使用指南及管理细则
+title: 烟台社会保障卡使用指南及管理细则(社保)
 category: 分享
 tags: 烟台社保
 keywords: 烟台社保
