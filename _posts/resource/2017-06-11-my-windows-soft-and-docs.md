@@ -40,15 +40,17 @@ keywords: windows
 
 ### 不常用的
 
-[闪电](http://www.sd173.com)、[PowerISO](http://www.poweriso.com)、[局域网通信](http://www.51nwt.com/)、[雨过天晴](http://www.ygtq.net)、[GTD](http://doitim.com/cn/)
+[360](http://baoku.360.cn)、[百度](http://rj.baidu.com/)、[闪电](http://www.sd173.com)、[PowerISO](http://www.poweriso.com)、[局域网通信](http://www.51nwt.com/)、[雨过天晴](http://www.ygtq.net)、[GTD](http://doitim.com/cn/)
+
+[流程组织架构](https://www.processon.com)
 
 Beyond Compare批量修改时间戳方法：操作-接触
 
 XnView 浏览图片，特色是有扫描功能
 
-加密软件：[diskcryptor](https://diskcryptor.net)、[FreeOTFE加密](https://sourceforge.net/projects/freeotfe.mirror/)
+[diskcryptor](https://diskcryptor.net)、[FreeOTFE加密](https://sourceforge.net/projects/freeotfe.mirror/)
 
-模拟软件：[按键精灵](http://www.anjian.com/)
+[按键精灵](http://www.anjian.com/)、[CAD图纸](http://pan.baidu.com/s/1o89cBSu)
 
 ## Android
 

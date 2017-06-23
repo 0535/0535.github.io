@@ -24,7 +24,7 @@ keywords: 网站
 
 ## 前端
 
-[拼图](http://www.pintuer.com)、[Amaze](http://amazeui.org)、[H-ui](http://www.h-ui.net)、[SUI](http://m.sui.taobao.org)
+[拼图](http://www.pintuer.com)、[Amaze](http://amazeui.org)、[H-ui](http://www.h-ui.net)、[SUI](http://m.sui.taobao.org)、[在线调试](http://dabblet.com)
 
 ## 静态网站
 
@@ -36,7 +36,7 @@ keywords: 网站
 
 ## 服务器
 
-[WampServer](http://www.wampserver.com)、[LNMP](https://lnmp.org)
+[WampServer](http://www.wampserver.com)、[LNMP](https://lnmp.org)、[简易HTTP](https://www.npmjs.com/package/http-server)
 
 ## Java
 

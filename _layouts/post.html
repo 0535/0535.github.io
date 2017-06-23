@@ -7,6 +7,7 @@ layout: default
     {% if page.tags.size > 0 %}
     <span class="post-meta-span tag">{{ page.tags | join: ', ' }}</span>
     {% endif %}
+	<span class="post-meta-span comment">{{ page.category | xml_escape }}</span>
   </div>
 
   <h1 class="post-title">{{ page.title }}</h1>

@@ -8,7 +8,7 @@ keywords: 众筹,经济,音乐
 
 ## 众筹
 
-[京东众筹网址](http://z.jd.com/)、[淘宝众筹网址](https://izhongchou.taobao.com/)、[苏宁众筹网址](http://zc.suning.com/)、[米家商城网址](http://home.mi.com/shop/main)、[小米众筹网址](http://home.mi.com/ishop/main?id=5&f=b1)
+[京东众筹网址](http://z.jd.com/)、[淘宝众筹网址](https://izhongchou.taobao.com/index.htm)、[苏宁众筹网址](http://zc.suning.com/)、[米家商城网址](http://home.mi.com/shop/main)
 
 ## 经济网站
 

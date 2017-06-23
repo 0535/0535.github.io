@@ -6,6 +6,8 @@ tags: MySQL
 keywords: MySQL
 ---
 
+创建数据库编码格式`utf8_general_ci`
+
 ## 登录数据库
 
 ```
