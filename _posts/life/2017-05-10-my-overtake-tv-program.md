@@ -15,11 +15,7 @@ keywords: 电视,综艺
 
 ### 综艺节目
 
-[奇葩说](http://www.iqiyi.com/a_19rrh99g55.html)
-
-[饭局狼人杀](http://v.pptv.com/show/csexL5f9basOjPQ.html)
-
-[饭局的诱惑](http://v.qq.com/detail/5/51750.html)
+[奇葩说](http://www.iqiyi.com/a_19rrh99g55.html)、[饭局狼人杀](http://v.pptv.com/show/csexL5f9basOjPQ.html)、[饭局的诱惑](http://v.qq.com/detail/5/51750.html)
 
 ## 纪录片
 

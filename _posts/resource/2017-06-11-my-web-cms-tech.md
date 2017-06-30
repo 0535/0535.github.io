@@ -36,7 +36,7 @@ keywords: 网站
 
 ## 服务器
 
-[WampServer](http://www.wampserver.com)、[LNMP](https://lnmp.org)、[简易HTTP](https://www.npmjs.com/package/http-server)
+[WampServer](http://www.wampserver.com)、[LNMP](https://lnmp.org)、[简易HTTP](https://www.npmjs.com/package/http-server)、[HFS](http://www.rejetto.com/hfs/)
 
 ## Java
 
