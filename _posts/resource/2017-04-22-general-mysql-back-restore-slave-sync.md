@@ -9,7 +9,7 @@ keywords: MySQL,备份还原,主从同步
 
 ## MYSQLDUMP逻辑备份
 
-直接复制数据文件是最为直接、快速的备份方法，但缺点是不能增量备份。备份文件时建议‘FLUSH TABLES WITH READ LOCK;’把内存数据刷新到磁盘中，同时锁定数据表，保证复制过程中不会有新的数据写入。备份完成之后使用`UNLOCK TABLES;`解锁。
+直接复制数据文件是最为直接、快速的备份方法，但缺点是不能增量备份。备份文件时建议`FLUSH TABLES WITH READ LOCK;`把内存数据刷新到磁盘中，同时锁定数据表，保证复制过程中不会有新的数据写入。备份完成之后使用`UNLOCK TABLES;`解锁。
 
 ```
 备份数据库TP5
@@ -257,5 +257,4 @@ show slave status \G #显示IO_Running SQL_Running说明主从搭建成功
 ```
 
 
-[Mysqldump参数](http://www.cnblogs.com/qq78292959/p/3637135.html)
-[MYSQL复制](http://www.cnblogs.com/lyhabc/p/3888702.html)
+[Mysqldump参数](http://www.cnblogs.com/qq78292959/p/3637135.html)    [MYSQL复制](http://www.cnblogs.com/lyhabc/p/3888702.html)
