@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 图片 屏幕录制 电子相册及音视频剪辑软件
+title: 图片 屏幕截图录像 电子相册及音视频剪辑软件
 category: 资源
 tags: 图片,屏幕,视频
 keywords: 图片,屏幕,视频
@@ -30,6 +30,6 @@ keywords: 图片,屏幕,视频
 
 ## 屏幕录制软件
 
-[OBS Studio 开源](http://www.obsapp.net/)、[Bandicam](http://www.bandicam.com/cn/)
+[OBS Studio 开源](http://www.obsapp.net/)、[Bandicam](http://www.bandicam.com/cn/)、[GIF截图](http://pan.baidu.com/s/1bFrpQA)
 
 

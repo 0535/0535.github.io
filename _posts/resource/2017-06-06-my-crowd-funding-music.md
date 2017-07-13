@@ -12,13 +12,13 @@ keywords: 众筹,经济,音乐
 
 ## 经济网站
 
-[老怪中国](http://blog.eastmoney.com/laoguaizhongguo)、[爱投顾](http://itougu.jrj.com.cn/live/41)、[天天看盘](http://www.ourkp.com)
+[雨后彩莲](http://iguba.eastmoney.com/1638134840519762)、[股神319](http://iguba.eastmoney.com/6840064733981984)、[爱投顾](http://itougu.jrj.com.cn/live/41)、[天天看盘](http://www.ourkp.com)
 
 [天狼微博](http://weibo.com/tl50ch)、[天狼视频](http://id.tudou.com/i/UMzEwMDA4MTY2NA==/videos)
 
 [沪股通](http://data.10jqka.com.cn/hgt/hgtb/)、[沪深港通](http://data.eastmoney.com/hsgt/index.html)
 
-[机构股票池](http://stockhtm.finance.qq.com/report/others/jggpc.html)、[金罗盘](http://stock.sohu.com/s2011/jlp/)
+[问财](http://www.iwencai.com)、[金罗盘](http://stock.sohu.com/s2011/jlp/)
 
 ## 音乐网站
 

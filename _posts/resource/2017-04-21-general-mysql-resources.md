@@ -8,6 +8,16 @@ keywords: MySQL
 
 创建数据库编码格式`utf8_general_ci`
 
+## 常用命令
+
+```
+show databases/tables; #显示数据库/表
+use test; #使用test数据库
+desc tabl_name; #查询表结构
+show create table table_name; #显示创建的语句
+select * from mysql.event \G #查看定时任务
+```
+
 ## 登录数据库
 
 ```
