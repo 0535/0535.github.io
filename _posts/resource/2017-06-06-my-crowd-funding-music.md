@@ -12,7 +12,7 @@ keywords: 众筹,经济,音乐
 
 ## 经济网站
 
-[雨后彩莲](http://iguba.eastmoney.com/1638134840519762)、[股神319](http://iguba.eastmoney.com/6840064733981984)、[爱投顾](http://itougu.jrj.com.cn/live/41)、[天天看盘](http://www.ourkp.com)
+[雨后彩莲](http://iguba.eastmoney.com/1638134840519762)、[彩莲博客](http://blog.sina.com.cn/s/articlelist_6058426446_0_1.html)、[爱投顾](http://itougu.jrj.com.cn/live/41)、[天天看盘](http://www.ourkp.com)、[自选股](http://gu.qq.com/i/)
 
 [天狼微博](http://weibo.com/tl50ch)、[天狼视频](http://id.tudou.com/i/UMzEwMDA4MTY2NA==/videos)
 
