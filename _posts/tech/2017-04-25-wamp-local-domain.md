@@ -44,7 +44,7 @@ keywords: Apache,域名,端口,虚拟目录
     AllowOverride All
 # 允许外部访问    
     Require all granted
-# Require local  #注释请求本机访问，将这行注释掉
+# Require local  #只允许本机访问
 </Directory>
 ```
 

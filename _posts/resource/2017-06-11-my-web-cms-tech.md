@@ -44,7 +44,7 @@ keywords: 网站
 
 ## 域名
 
-[西部数码](http://www.west.cn/domains/)、[超级站](http://app.321-0.com/inputApp.asp)
+[百度Domain](https://cloud.baidu.com/product/bcd.html)、[西部数码](http://www.west.cn/domains/)
 
 ## 免费的
 

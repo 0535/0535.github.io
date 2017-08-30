@@ -32,7 +32,7 @@ keywords: windows
 
 ## 安全软件
 
-[火绒](http://www.huorong.cn)
+[火绒](http://www.huorong.cn)、[Easy File Locker](http://www.xoslab.com/efl.html)
 
 ## 数据恢复
 

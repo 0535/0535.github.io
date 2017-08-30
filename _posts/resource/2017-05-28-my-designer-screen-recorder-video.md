@@ -22,7 +22,7 @@ keywords: 图片,屏幕,视频
 
 ## 电子相册
 
-[VSDC Free Video Editor](http://www.videosoftdev.com/free-video-editor/download)、[OpenShot](http://www.openshot.org/)
+[VSDC Free Video Editor](http://www.videosoftdev.com/free-video-editor/download)、[OpenShot](http://www.openshot.org/)、[快剪辑](http://se.360.cn/welcome/wel_kjj_2.html)
 
 ## 音视频剪辑软件
 
