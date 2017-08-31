@@ -8,7 +8,7 @@ keywords: 图片,屏幕,视频
 
 ## 图床
 
-[又拍](http://x.yupoo.com/photos/bztd/albums)、[SM.MS](https://sm.ms)
+[又拍](http://x.yupoo.com/photos/bztd/albums)、[SM.MS](https://sm.ms)、[贴图库](http://www.tietuku.com/)
 
 ## 图片编辑
 
