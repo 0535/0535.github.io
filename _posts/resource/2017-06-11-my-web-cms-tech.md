@@ -20,7 +20,7 @@ keywords: 网站
 
 ## 插件
 
-[bootstrap-table](https://github.com/wenzhixin/bootstrap-table)、[datatables](https://datatables.net)
+[bootstrap-table](https://github.com/wenzhixin/bootstrap-table)、[datatables](https://datatables.net)、[FullPage全屏滚动](https://github.com/alvarotrigo/fullPage.js)、[REVEAL.JS演示文稿](https://github.com/hakimel/reveal.js)
 
 ## 前端
 

@@ -25,8 +25,8 @@ http://fpoimg.com/1000x600?text=not_support_chinese
 
 ## Bing美图
 
-![1366*768分辨率API](https://www.dujin.org/sys/bing/1366.php)
+![1366*768分辨率API](https://api.dujin.org/bing/1366.php)
 
-![1920*1080分辨API](https://www.dujin.org/sys/bing/1920.php)
+![1920*1080分辨API](https://api.dujin.org/bing/1920.php)
 
 [JSON获取Bing背景图片](http://oss.so/blog/55.html)

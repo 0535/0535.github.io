@@ -48,7 +48,7 @@ Beyond Compare批量修改时间戳方法：操作-接触
 
 XnView 浏览图片，特色是有扫描功能
 
-[diskcryptor](https://diskcryptor.net)、[FreeOTFE加密](https://sourceforge.net/projects/freeotfe.mirror/)
+[SecretFolder_文件夹隐藏](http://ohsoft.net/eng/sfolder/download.php)、[diskcryptor](https://diskcryptor.net)、[FreeOTFE加密](https://sourceforge.net/projects/freeotfe.mirror/)
 
 [按键精灵](http://www.anjian.com/)、[CAD图纸](http://pan.baidu.com/s/1o89cBSu)
 

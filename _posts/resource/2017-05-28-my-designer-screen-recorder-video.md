@@ -30,6 +30,6 @@ keywords: 图片,屏幕,视频
 
 ## 屏幕录制软件
 
-[OBS Studio 开源](http://www.obsapp.net/)、[Bandicam](http://www.bandicam.com/cn/)、[GIF截图](http://pan.baidu.com/s/1bFrpQA)
+[OBS Studio 开源](http://www.obsapp.net/)、[Bandicam](http://www.bandicam.com/cn/)、[GIF截图](http://pan.baidu.com/s/1bFrpQA)、[360截图](https://pan.baidu.com/s/1nv0vVOd)、[高级截图](https://zh.snipaste.com/)
 
 
