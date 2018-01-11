@@ -8,13 +8,13 @@ keywords: 图片,屏幕,视频
 
 ## 图床
 
-[又拍](http://x.yupoo.com/photos/bztd/albums)、[SM.MS](https://sm.ms)、[贴图库](http://www.tietuku.com/)
+[又拍](http://x.yupoo.com/photos/bztd/albums)、[SM.MS](https://sm.ms)、[贴图库](http://www.tietuku.com/)、[cloudinary](https://cloudinary.com/)
 
 ## 图片编辑
 
 [创客贴](https://www.chuangkit.com/index.html)、[Fotor](http://www.fotor.com/cn/)、[Canva](https://www.canva.com)、[befunky](https://www.befunky.com)、[智能助手](http://www.arkie.cn/)
 
-[在线PS](http://www.uupoop.com)、[字体转换](http://www.diyiziti.com)、[智图-压缩](http://zhitu.isux.us)
+[在线PS](http://www.uupoop.com)、[字体转换](http://www.diyiziti.com)、[智图-压缩](http://zhitu.isux.us)、[picdiet在线压缩](https://www.picdiet.com/zh-cn)
 
 ## 图片类网站
 

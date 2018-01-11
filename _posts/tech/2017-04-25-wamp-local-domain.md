@@ -33,7 +33,8 @@ keywords: Apache,域名,端口,虚拟目录
 <VirtualHost *:80>
     ServerAdmin admin@a.com
     DocumentRoot "D:/wamp64/site/"
-    ServerName a.com
+    ServerName www.a.com
+    ServerAlias a.com
     ErrorLog "logs/a-error.log"
     CustomLog "logs/a-access.log" common
 </VirtualHost>

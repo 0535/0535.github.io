@@ -111,3 +111,52 @@ console.log("我劝天公重抖擞，不拘一格降人才。%c来自:龚自珍"
 
 </script>
 ```
+
+## 走马灯 上下滚动 通知
+
+```
+<html class="no-js">
+<head>
+<meta charset="utf-8">
+<title> 走马灯 上下滚动 </title>
+<style type="text/css">
+#scroll {margin:0;padding:2px 0;list-style:none;border:1px solid red;width:200px;height:18px;overflow:hidden}
+#scroll li {margin:0;padding:0 2px;font-size:14px;height:18px;line-height:18px;}
+</style>
+<script type="text/javascript">
+window.onload = function() {
+ dMarquee('scroll');
+}
+function dMarquee(id){
+ var speed=30; //速度
+ var stop=1000; //停止时间
+ var ul = document.getElementById(id);
+ var rows=ul.getElementsByTagName('li').length;
+ var height = ul.getElementsByTagName('li')[0].offsetHeight;
+ ul.innerHTML += ul.innerHTML;
+ var timeID = false;
+ var play = function() {
+  ul.scrollTop++;
+  if(ul.scrollTop==rows*height){
+   ul.scrollTop=0;
+  }
+  if(ul.scrollTop%height==0) {
+   timeID = setTimeout(play,stop);
+  }else{
+   timeID = setTimeout(play,speed);
+  } 
+ }
+ timeID = setTimeout(play,stop);
+ ul.onmouseover = function() {clearTimeout(timeID);}
+ ul.onmouseout = play;
+}
+</script>
+</head>
+<body>
+<ul id="scroll">
+ <li><a href="http://www.baidu.com">百度</a></li>
+ <li>关于XXXXXX的通知</li>
+ </ul>
+</body>
+</html>
+```

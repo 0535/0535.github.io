@@ -12,11 +12,11 @@ keywords: windows
 
 ## 效率软件
 
-[Listary](http://www.listary.com/)
+[Listary](http://www.listary.com/)、[Doit.im](http://doitim.com/cn/)
 
 ## 图片视频
 
-[图片工厂官网](www.pcfreetime.com/picosmos/)、[图片工厂1.9](http://pan.baidu.com/s/1boHV8FP)、[射手影音](https://www.splayer.org)
+[图片工厂官网](www.pcfreetime.com/picosmos/)、[图片工厂1.9](http://pan.baidu.com/s/1boHV8FP)、[射手影音](https://www.splayer.org)、[MPC-HC](https://mpc-hc.org/)
 
 ## 字体及格式
 
@@ -24,7 +24,7 @@ keywords: windows
 
 ## 文本
 
-[Notepad++](http://notepad-plus-plus.org)、[Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)
+[Notepad++](http://notepad-plus-plus.org)、[Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)、[Sublime](https://www.sublimetext.com/)
 
 ## 浏览器
 
@@ -42,7 +42,7 @@ keywords: windows
 
 [360](http://baoku.360.cn)、[百度](http://rj.baidu.com/)、[闪电](http://www.sd173.com)、[PowerISO](http://www.poweriso.com)、[局域网通信](http://www.51nwt.com/)、[雨过天晴](http://www.ygtq.net)、[GTD](http://doitim.com/cn/)
 
-[流程组织架构](https://www.processon.com)
+[流程组织架构](https://www.processon.com)、[Xmind](https://www.xmind.cn/zen/)
 
 Beyond Compare批量修改时间戳方法：操作-接触
 

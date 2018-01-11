@@ -8,23 +8,20 @@ keywords: 网站
 
 ## 轻论坛
 
-[Xiuno](http://bbs.xiuno.com)、[StartBBS](http://www.startbbs.com)
+[Xiuno](http://bbs.xiuno.com)、[Flarum](http://flarum.org.cn/)、[StartBBS](http://www.startbbs.com)
 
-## 企业CMS
-
-[MoMoCMS](http://momocms.youyax.com/)、[WordPress](https://cn.wordpress.org)
 
 ## 框架
 
-[ThinkCMF](http://www.thinkcmf.com)、[ThinkPHP](http://www.thinkphp.cn)、[xiunophp](https://www.kancloud.cn/xiuno/xiunophp)
+[ThinkCMF](http://www.thinkcmf.com)、[ThinkPHP](http://www.thinkphp.cn)、[xiunophp](https://www.kancloud.cn/xiuno/xiunophp)、[富客户端](http://jui.org/)、[站群 一站一目录](http://www.php7cms.com/)、[云表](https://www.iyunbiao.com/)
 
 ## 插件
 
-[bootstrap-table](https://github.com/wenzhixin/bootstrap-table)、[datatables](https://datatables.net)、[FullPage全屏滚动](https://github.com/alvarotrigo/fullPage.js)、[REVEAL.JS演示文稿](https://github.com/hakimel/reveal.js)
+[SuperSlide](http://www.superslide2.com/)、[bootstrap-table](https://github.com/wenzhixin/bootstrap-table)、[datatables](https://datatables.net)、[FullPage全屏滚动](https://github.com/alvarotrigo/fullPage.js)、[REVEAL.JS演示文稿](https://github.com/hakimel/reveal.js)
 
 ## 前端
 
-[拼图](http://www.pintuer.com)、[Amaze](http://amazeui.org)、[H-ui](http://www.h-ui.net)、[SUI](http://m.sui.taobao.org)、[在线调试](http://dabblet.com)
+[LayUI](http://www.layui.com/)、[拼图](http://www.pintuer.com)、[Amaze](http://amazeui.org)、[H-ui](http://www.h-ui.net)、[NEC](http://nec.netease.com/)、[Pure](https://purecss.io/)、[在线调试](http://dabblet.com)、Vue：[Element](http://element-cn.eleme.io/#/)、[Mint UI](http://mint-ui.github.io/#/)、[iView](https://www.iviewui.com/)
 
 ## 静态网站
 
@@ -32,11 +29,11 @@ keywords: 网站
 
 ## 微信公众号
 
-[ThinkPHP SDK](http://www.thinkphp.cn/extend/588.html)、[weui+](https://github.com/logoove/weui)
+[ThinkPHP SDK](http://www.thinkphp.cn/extend/588.html)、[weui+](https://github.com/logoove/weui)、[SUI](http://m.sui.taobao.org)
 
 ## 服务器
 
-[WampServer](http://www.wampserver.com)、[AppServ](https://www.appserv.org/en/)、[LNMP](https://lnmp.org)、[简易HTTP](https://www.npmjs.com/package/http-server)、[HFS](http://www.rejetto.com/hfs/)、[安全狗](http://www.safedog.cn)、[悬镜_Linux](http://www.xmirror.cn)
+[WampServer](http://www.wampserver.com)、[AppServ](https://www.appserv.org/en/)、[LNMP](https://lnmp.org)、[PHP环境](http://www.phpstudy.net/)、[简易HTTP](https://www.npmjs.com/package/http-server)、[HFS](http://www.rejetto.com/hfs/)、[安全狗](http://www.safedog.cn)、[悬镜_Linux](http://www.xmirror.cn)、[shell查杀](http://www.webshell.pub/)
 
 ## Java
 
@@ -49,6 +46,10 @@ keywords: 网站
 ## 免费的
 
 [Freeostia](https://www.freehostia.com)、[BYET](https://byet.host)、[域名](http://www.freenom.com/en/index.html?lang=en)
+
+## 空间域名
+
+[GoDaddy](https://www.godaddy.com/)、[老薛主机](http://www.laoxuehost.com)、[百度云BCH BAE](https://cloud.baidu.com/product/bch.html)、[阿里](https://wanwang.aliyun.com/hosting/)
 
 ## 数据存储
 
@@ -68,7 +69,7 @@ keywords: 网站
 
 ## APP
 
-[DeviceOne](http://www.deviceone.net)、[叮当](http://www.dingdone.com)、[APICloud](http://www.apicloud.com)
+[DeviceOne](http://www.deviceone.net)、[APICloud](http://www.apicloud.com)、[知晓云](https://cloud.minapp.com/)、[应用托管](https://fir.im/)
 
 ## 电脑
 
@@ -76,4 +77,4 @@ keywords: 网站
 
 ## 其他
 
-[威盾PHP加密](http://pan.baidu.com/s/1dFzkNZF)、[网上相簿](http://cn.piwigo.org)
+[威盾PHP加密](http://pan.baidu.com/s/1dFzkNZF)、[JS加密](https://pan.baidu.com/s/1qYUgJmc)、[PHP在线加密](http://www.youyax.com/phpjm/)、[JS在线加密](http://www.javascriptobfuscator.com/Javascript-Obfuscator.aspx)、[网上相簿](http://cn.piwigo.org)、[洞悉漏洞](https://www.seebug.org/)、[云悉web指纹](http://www.yunsee.cn/finger.html)、[IP位置](https://ip.rtbasia.com/)、[CSS Color](https://colorme.io/)
