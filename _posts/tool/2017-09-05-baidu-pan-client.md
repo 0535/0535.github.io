@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 百度网盘下载大文件解决方案
-category: 其他
+category: 工具
 tags: 百度网盘
 keywords: 百度网盘
 ---

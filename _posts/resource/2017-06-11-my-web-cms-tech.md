@@ -53,7 +53,7 @@ keywords: 网站
 
 ## 数据存储
 
-[Bmob云 数据库](http://www.bmob.cn)、[野狗](https://www.wilddog.com)、[七牛](https://www.qiniu.com)
+[LeanCloud后端云](https://leancloud.cn)、[野狗](https://www.wilddog.com)、[七牛](https://www.qiniu.com)、[Bmob云 数据库](http://www.bmob.cn)
 
 ## 公司
 

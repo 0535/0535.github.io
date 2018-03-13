@@ -6,6 +6,14 @@ tags: WeChat,微信
 keywords: WeChat,微信
 ---
 
+## 服务
+
+[EasyWeChat框架](https://www.easywechat.com/)
+
+[轻媒 社区服务](https://www.qingmei.me/)
+
+[小冰](https://msxiaobing.com/)
+
 ## 辅助类
 
 [135编辑器](http://www.135editor.com/)

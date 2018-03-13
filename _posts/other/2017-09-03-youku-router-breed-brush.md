@@ -29,8 +29,6 @@ mtd -r write /mnt/sda1/breed-youku.bin Bootloader
 
 ![登陆Breed](https://pic.yupoo.com/bztd/e18e772e/afeea40a.jpg)
 
-[固件地址](http://www.right.com.cn/forum/thread-161324-1-1.html)
-
 ### 更新固件
 
 ![更新固件](https://pic.yupoo.com/bztd/4ab3e119/3566b964.jpg)
@@ -41,7 +39,19 @@ mtd -r write /mnt/sda1/breed-youku.bin Bootloader
 管理账号：admin/admin
 wifi:1234567890
 ```
+
+## 使用
+
+### 无线桥接
+
+![无线桥接](http://pic.yupoo.com/bztd/0f854734/5586d2aa.jpg)
+
+### 升级地址
+
+[固件地址](http://www.right.com.cn/forum/thread-161324-1-1.html)
+
 ---
+
 相关链接：
 
 [刷机使用的文件](https://pan.baidu.com/s/1geFkF3H)
