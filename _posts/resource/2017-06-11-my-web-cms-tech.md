@@ -45,7 +45,7 @@ keywords: 网站
 
 ## 免费的
 
-[Freeostia](https://www.freehostia.com)、[BYET](https://byet.host)、[域名](http://www.freenom.com/en/index.html?lang=en)
+[AWARDSPACE](https://www.awardspace.com/free-hosting/)、[Freeostia](https://www.freehostia.com)、[BYET](https://byet.host)
 
 ## 空间域名
 

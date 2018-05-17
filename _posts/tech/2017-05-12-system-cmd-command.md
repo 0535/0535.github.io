@@ -1,10 +1,23 @@
 ---
 layout: post
-title: 系统自动关机，重启–利用at及shutdown命令
+title: windows系统常用命令
 category: 技术
-tags: 自动关机
-keywords: shutdown,自动关机,定时
+tags: 自动关机,用户管理
+keywords: 用户,shutdown,自动关机,定时
 ---
+## 管理命令
+
+密码永不过期 禁止修改密码 进入本地用户和组
+
+`lusrmgr.msc`
+
+## 主板生产日期
+
+```
+debug
+-d ffff:5 格式:月日年
+```
+## 系统自动关机，重启–利用at及shutdown命令
 
 每月的1、5号的0点自动关机
 
