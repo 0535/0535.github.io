@@ -12,6 +12,7 @@ keywords: MySQL
 
 ```
 show databases/tables; #显示数据库/表
+show tables like 'tt_%'; #搜索类似表
 use test; #使用test数据库
 desc tabl_name; #查询表结构
 show create table table_name; #显示创建的语句

@@ -12,11 +12,11 @@ keywords: windows
 
 ## 效率软件
 
-[Listary](http://www.listary.com/)、[Doit.im](http://doitim.com/cn/)
+[Listary](http://www.listary.com/)、[Doit.im](http://doitim.com/cn/)、[Everything](http://www.voidtools.com/)
 
 ## 图片视频
 
-[图片工厂官网](www.pcfreetime.com/picosmos/)、[图片工厂1.9](http://pan.baidu.com/s/1boHV8FP)、[射手影音](https://www.splayer.org)、[MPC-HC](https://mpc-hc.org/)
+[图片工厂官网](www.pcfreetime.com/picosmos/)、[射手影音](https://www.splayer.org)、[MPC-HC](https://mpc-hc.org/)
 
 ## 字体及格式
 
@@ -32,7 +32,7 @@ keywords: windows
 
 ## 安全软件
 
-[火绒](http://www.huorong.cn)、[Easy File Locker](http://www.xoslab.com/efl.html)
+[火绒](http://www.huorong.cn)、[智量](https://www.wisevector.com)、[Easy File Locker](http://www.xoslab.com/efl.html)
 
 ## 数据恢复
 
@@ -50,7 +50,7 @@ XnView 浏览图片，特色是有扫描功能
 
 [SecretFolder_文件夹隐藏](http://ohsoft.net/eng/sfolder/download.php)、[diskcryptor](https://diskcryptor.net)、[FreeOTFE加密](https://sourceforge.net/projects/freeotfe.mirror/)
 
-[按键精灵](http://www.anjian.com/)、[CAD图纸](http://pan.baidu.com/s/1o89cBSu)
+[按键精灵](http://www.anjian.com/)、[CAD浩辰](http://www.gstarcad.com)
 
 ## Android
 

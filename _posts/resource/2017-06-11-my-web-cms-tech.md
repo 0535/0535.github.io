@@ -25,11 +25,11 @@ keywords: 网站
 
 ## 静态网站
 
-[Jekyll](http://jekyll.bootcss.com)、[Hexo](https://hexo.io/)
+[Hexo首选](https://hexo.io/)、[评论](https://livere.com)、[搜索](https://swiftype.com)、[Markdown编辑器](http://soft.xiaoshujiang.com)、[Jekyll](http://jekyll.bootcss.com)、
 
 ## 微信公众号
 
-[ThinkPHP SDK](http://www.thinkphp.cn/extend/588.html)、[weui+](https://github.com/logoove/weui)、[SUI](http://m.sui.taobao.org)
+[ThinkPHP SDK](http://www.thinkphp.cn/extend/588.html)、[Vant Weapp](https://youzan.github.io/vant-weapp/)、[weui+](https://github.com/logoove/weui)、[SUI](http://m.sui.taobao.org)
 
 ## 服务器
 
@@ -65,7 +65,7 @@ keywords: 网站
 
 ## 教程
 
-[看云](https://www.kancloud.cn)、[FenBy](http://www.fenby.com)、[网易云课堂](http://study.163.com)、[传智播客](http://www.itcast.cn)
+[看云](https://www.kancloud.cn)、[网易云课堂](http://study.163.com)
 
 ## APP
 
