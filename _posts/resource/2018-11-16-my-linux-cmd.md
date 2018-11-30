@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pages 静态网站总结
+title: Linux常用命令
 category: 资源
 tags: Git
 keywords: Git
@@ -15,7 +15,7 @@ pppoeconf 之后一路Yes
 断开 poff dsl-provider
 ```
 
-##
+## 网络配置
 
 ```
 设置静态IP
