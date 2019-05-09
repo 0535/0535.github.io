@@ -29,7 +29,12 @@ mysql -h localhost -uroot -p
 ## 修改密码
 
 ```
+#新版本修改
+use mysql;
+ALTER USER 'ldmeat'@'localhost' IDENTIFIED WITH mysql_native_password BY '123456test';#新版本
+#旧版本修改
 SET PASSWORD = PASSWORD("123456"); # 修改当前用户密码
+SET PASSWORD FOR 'ld'@'localhost' = PASSWORD("123456"); #只允许本机的
 SET PASSWORD FOR 'root'@'%' = PASSWORD("123456"); # 修改其他用户密码
 ```
 
@@ -37,32 +42,42 @@ SET PASSWORD FOR 'root'@'%' = PASSWORD("123456"); # 修改其他用户密码
 
 ```
 mysqldump -uroot -p db > db.sql
+mysqldump -u root -p -h 127.0.0.1 --databases tp5 > D:\test.sql
 ```
 
 ## 导入数据库
 
 ```
-mysqldump -uroot -p db < db.sql
+mysql -uroot -p db < db.sql
+或者mysql登录之后
+use test;
+source D:/test.sql
 ```
 
-## 创建用户
-
+## 用户操作
 ```
 CREATE USER 'test'@'localhost' IDENTIFIED BY '123456'; # 任意主机% 指定主机192.168.1.10
 grant all privileges on *.* to test@'localhost'; # 授予所有权限及所有数据库
+GRANT ALL ON testdb.* TO 'test'@'localhost'; #privileges可以省略
 GRANT SELECT,INSERT ON Typecho.tablename TO 'test'@'localhost'; #授予部分权限
+drop user test@localhost; 
 ```
 
-## 创建表
+## 创建库和表
 
 ```
-CREATE SCHEMA testdb DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
+create database test;
+create table a(
+   a VARCHAR(100) NOT NULL,
+   b VARCHAR(100) NOT NULL
+);
+insert into a values("aaa","111");
+drop database test;
 ```
 
-## 赋予数据库权限
-
+## 查看开放端口
 ```
-GRANT ALL ON testdb.* TO 'test'@'localhost';
+show global variables like 'port';
 ```
 
 ## 数据库批量导出到新表

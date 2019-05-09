@@ -21,7 +21,7 @@ keywords: 网站
 
 ## 前端
 
-[LayUI](http://www.layui.com/)、[拼图](http://www.pintuer.com)、[Amaze](http://amazeui.org)、[H-ui](http://www.h-ui.net)、[NEC](http://nec.netease.com/)、[Pure](https://purecss.io/)、[在线调试](http://dabblet.com)、Vue：[Element](http://element-cn.eleme.io/#/)、[Mint UI](http://mint-ui.github.io/#/)、[iView](https://www.iviewui.com/)
+[LayUI](http://www.layui.com/)、[拼图](http://www.pintuer.com)、[Amaze](http://amazeui.org)、[H-ui](http://www.h-ui.net)、[NEC](http://nec.netease.com/)、[Pure](https://purecss.io/)、[在线调试](http://dabblet.com)、Vue：[Element](http://element-cn.eleme.io/#/)、[Mint UI](http://mint-ui.github.io/#/)、[iView](https://www.iviewui.com/)、[ECharts报表](https://echarts.baidu.com/)、[有赞小程序UI库](https://github.com/youzan/vant-weapp)
 
 ## 静态网站
 
@@ -65,11 +65,11 @@ keywords: 网站
 
 ## 教程
 
-[看云](https://www.kancloud.cn)、[网易云课堂](http://study.163.com)
+[看云](https://www.kancloud.cn)、[网易云课堂](http://study.163.com)、[传智播客](http://www.itcast.cn)
 
 ## APP
 
-[DeviceOne](http://www.deviceone.net)、[APICloud](http://www.apicloud.com)、[知晓云](https://cloud.minapp.com/)、[应用托管](https://fir.im/)
+[AppWorker](http://www.appworker.net/)、[APICloud](http://www.apicloud.com)、[知晓云](https://cloud.minapp.com/)、[应用托管](https://fir.im/)
 
 ## 电脑
 

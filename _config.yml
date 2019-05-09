@@ -21,7 +21,8 @@ favicon: http://download.easyicon.net/ico/1200853/16/
 
 
 # Build settings
-permalink: /:year/:month/:day/:title.html
+# permalink: /:year/:month/:day/:title.html
+permalink: /:title.html
 markdown: kramdown
 highlighter: rouge
 mathjax: disabled

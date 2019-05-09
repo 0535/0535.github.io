@@ -7,7 +7,7 @@ keywords: 公司
 ---
 ## 学习
 
-[精易论坛](https://www.125.la/)、[兰兰](http://lanlan.im/)、[吾爱破解](https://www.52pojie.cn/)、[打卡](https://www.jianrenmatou.com/static/punchclock/punch.html?meid=1155&type=3)、[新疆](http://www.xjrsks.com.cn/website/)
+[精易论坛](https://www.125.la/)、[兰兰](http://lanlan.im/)、[吾爱破解](https://www.52pojie.cn/)
 
 ## 众筹
 
@@ -15,7 +15,7 @@ keywords: 公司
 
 ## 经济网站
 
-[雨后彩莲](http://iguba.eastmoney.com/1638134840519762)、[天狼微博](http://weibo.com/tl50ch)、[自选股](http://gu.qq.com/i/)、[天狼50](http://sy.soft.tl50.com/)
+[雨后彩莲](http://iguba.eastmoney.com/1638134840519762)、[天狼微博](http://weibo.com/tl50ch)、[自选股](http://gu.qq.com/i/)、[天狼50](http://http://v.qq.com/vplus/4ae752dcb0fb51b4f9a10ae0a7d3f9b1/)
 
 
 ## 音乐网站

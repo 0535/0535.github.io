@@ -20,11 +20,11 @@ keywords: windows
 
 ## 字体及格式
 
-[公文字体及格式](http://pan.baidu.com/s/1c23WCrI)
+[公文字体及格式](http://pan.baidu.com/s/1c23WCrI)、[思源黑体](http://www.google.cn/get/noto/)
 
 ## 文本
 
-[Notepad++](http://notepad-plus-plus.org)、[Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)、[Sublime](https://www.sublimetext.com/)
+[Notepad++](http://notepad-plus-plus.org)、[GitNote](https://github.com/zhaopengme/gitnote)、[Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)、[VisualStudio](https://code.visualstudio.com/)、[Sublime](https://www.sublimetext.com/)
 
 ## 浏览器
 

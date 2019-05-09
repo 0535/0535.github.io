@@ -12,6 +12,7 @@ lusrmgr.msc :本地用户和组
 NETSH WINSOCK RESET :网络参数重置
 
 dxdiag :DirectX诊断工具
+winver #查看系统版本
 slmgr /dlv:系统版本
 certmgr.msc :证书管理工具
 ```
@@ -74,6 +75,21 @@ EXIT
 net use * /delete
 强制注册表更新组策略
 gpupdate /force
+```
+
+## Win共享
+
+```
+netplwiz 网络用户登录向导net person login wizard 或者 control userpasswords2
+用户--要使用本计算机 用户必须输入用户名和密码[可以设置开机免输密码]
+高级--管理密码--凭据管理器[control keymgr.dll共享保存的账户密码]
+共享
+net use Z: \\10.128.10.231 123456 /user:admin
+net use z: \\IP\c$ "密码" /user:"帐号" #将对方的c盘映射为自己的z盘  
+net use \\IP\ipc$ /del #删除与指定IP的IPC$连接  
+net use z: /del #删除本机映射的z盘  
+net use * /del #删除本机所有映射和IPC$连接  
+net use /persistent:yes #控制持久网络连接的使用
 ```
 
 ## 主板生产日期
