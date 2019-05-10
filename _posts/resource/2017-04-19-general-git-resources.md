@@ -120,6 +120,9 @@ git config user.email "xx@xx.com"
 
 ![多个仓库同步代码](http://pic.yupoo.com/bztd/gVCqMAdZ/7cba3f05.png)
 
+### 密码清除
+
+`control keymgr.dll`或者`git config --system --unset credential.helper`
 
 
 相关链接：

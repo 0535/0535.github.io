@@ -57,7 +57,7 @@ keywords: 网站
 
 ## 公司
 
-[钉钉](https://www.dingtalk.com)、[今目标](http://www.jingoal.com)
+[DzzOffice](https://github.com/zyx0814/dzzoffice)、[金山文档](https://docs.wps.cn/)、[钉钉](https://www.dingtalk.com)、[石墨文档](https://shimo.im/welcome)、[腾讯文档](https://docs.qq.com/desktop/)、[今目标](http://www.jingoal.com)
 
 ## Linux
 
