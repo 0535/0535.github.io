@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<article class="post container">
+  <div class="post-meta">
+    <span class="post-meta-span date">{{ page.date | date:"%Y年%m月%d日" }}</span>
+	<span class="post-meta-span comment">{{ page.category | xml_escape }}</span>
+  </div>
+
+  <h1 class="post-title">{{ page.title }}</h1>
+  {{ content }}
+</article>
